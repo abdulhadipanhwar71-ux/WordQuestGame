@@ -1,14 +1,11 @@
 # Word Quest: Word School (لفظی درسگاہ) 🎓✨
 
-**Word Quest: Word School** is a complete, polished, 100% offline educational Android word puzzle game built with Flutter and Dart. Players connect circular letter tiles with glowing swipe gestures, solve educational word puzzles, earn coins and stars, unlock progressive school classrooms (from Classroom 101 to the Grand Master Auditorium), listen to native offline English pronunciation, and study verified Urdu meanings and bilingual example sentences!
-
 ---
 
-## 📥 Direct APK Download Link
+### 📲 [📥 DOWNLOAD WORD QUEST APK (Click Here / یہاں کلک کر کے ڈاؤنلوڈ کریں)](https://files.catbox.moe/etzlrq.apk) 🚀
 
-Download and install directly on any Android device:
-* **Direct APK Download**: [https://files.catbox.moe/etzlrq.apk](https://files.catbox.moe/etzlrq.apk)
-* **Alternative Mirror**: [https://tmpfiles.org/dl/wgAnZyTeEKKw/wordquest.apk](https://tmpfiles.org/dl/wgAnZyTeEKKw/wordquest.apk)
+> **📱 Direct Mobile Download:** Tap the link above to immediately download `WordQuest.apk` (97 MB) to your Android phone!  
+> **🌐 Mirror 2 (Backup):** [https://tmpfiles.org/dl/wgAnZyTeEKKw/wordquest.apk](https://tmpfiles.org/dl/wgAnZyTeEKKw/wordquest.apk)
 
 ---
 
