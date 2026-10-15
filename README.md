@@ -1,49 +1,60 @@
-# Word Quest: Word School (لفظی درسگاہ)
+# Word Quest: Word School (لفظی درسگاہ) 🎓✨
 
-**Word Quest: Word School** is a complete, polished, 100% offline educational Android word puzzle game built with Flutter and Dart. Players construct valid English words from curated letter sets, earn coins and stars, unlock progressive school rooms (from Kindergarten to the Grand Master Auditorium), and learn verified Urdu meanings for all discovered words.
+**Word Quest: Word School** is a complete, polished, 100% offline educational Android word puzzle game built with Flutter and Dart. Players connect circular letter tiles with glowing swipe gestures, solve educational word puzzles, earn coins and stars, unlock progressive school classrooms (from Classroom 101 to the Grand Master Auditorium), listen to native offline English pronunciation, and study verified Urdu meanings and bilingual example sentences!
+
+---
+
+## 📥 Direct APK Download Link
+
+Download and install directly on any Android device:
+* **Direct APK Download**: [https://files.catbox.moe/etzlrq.apk](https://files.catbox.moe/etzlrq.apk)
+* **Alternative Mirror**: [https://tmpfiles.org/dl/wgAnZyTeEKKw/wordquest.apk](https://tmpfiles.org/dl/wgAnZyTeEKKw/wordquest.apk)
 
 ---
 
 ## 🎯 Key Highlights
 
-- **100% Offline Capability**: Runs entirely without internet or mobile data. All 30 levels, 159 approved words, Urdu translations, and achievements are bundled locally.
-- **Curated 30 Levels across 5 School Classes**:
-  - **Class 1: Beginner** (Classroom 101) — 3-letter foundations.
-  - **Class 2: Explorer** (School Library) — 3 & 4-letter vocabulary.
-  - **Class 3: Word Builder** (Science Lab) — 4-letter compounds.
-  - **Class 4: Scholar** (Language Lab) — 4 & 5-letter puzzles.
-  - **Class 5: Master** (Grand Auditorium) — 5 & 6-letter masterworks.
-- **English-to-Urdu Learning**: Every accepted word features a verified Urdu translation and pronunciation/definition guide.
-- **Fair Gameplay & Strict Validation**:
-  - Enforces letter counts (e.g. puzzle with one 'A' cannot produce words with two 'A's).
-  - Rejects words below level minimum length.
-  - Case-insensitive duplicate detection.
-  - Rejects unpermitted letter combinations.
-- **Central Scoring Engine**:
-  - 2-letter word: 2 points
-  - 3-letter word: 5 points
-  - 4-letter word: 10 points
-  - 5-letter word: 15 points
-  - 6+ letter word: 20 points
-  - Level completion bonus: 20 points (awarded once)
-- **Real Hint System**:
+- **100% Offline Capability**: Runs entirely without internet or mobile data. All 50 levels, 336 words, Urdu translations, audio sound effects, and achievements are bundled locally.
+- **Swipe-to-Connect Letter Puzzle**:
+  - Circular letter pad layout supporting 3 to 6 letter tiles.
+  - Smooth continuous line rendering with vibrant golden core and glowing borders.
+  - Release finger to submit formed words instantly.
+  - Center shuffle button to rearrange letters with audio feedback.
+- **50 Curated Levels across 5 School Classes (10 Levels Each)**:
+  - **Class 1: Beginner** (Classroom 101) — Levels 1–10 (3 to 4-letter words).
+  - **Class 2: Explorer** (School Library) — Levels 11–20 (4-letter puzzles).
+  - **Class 3: Word Builder** (Science Lab) — Levels 21–30 (4 & 5-letter compounds).
+  - **Class 4: Scholar** (Language Lab) — Levels 31–40 (5-letter vocabulary).
+  - **Class 5: Master** (Grand Auditorium) — Levels 41–50 (5 & 6-letter anagrams).
+- **English-to-Urdu Learning & Post-Level Vocabulary Screen**:
+  - Every word has a verified Urdu translation and pronunciation helper.
+  - Short English example sentence for each word.
+  - Urdu translation of the example sentence.
+  - Voice pronunciation button on every word card.
+  - Explicit "Continue" button; never forces auto-skip.
+- **Offline Audio & Sound Effects**:
+  - Bundled 16-bit PCM sound effects for tile taps, letter connections, correct word chimes, error buzzers, hint shimmers, coins, and victory fanfare.
+  - Android native Text-To-Speech (TTS) integration for natural English voice pronunciation.
+- **Celebration Falling Petals Animation**:
+  - Lightweight custom particle animation of blossoming flower petals drifting down on level victory.
+  - Can be toggled on/off in Settings.
+- **4 Hint Modes**:
   - Reveal First Letter (10 coins)
   - Reveal Word Length (5 coins)
   - Reveal Urdu Meaning Clue (15 coins)
-- **10 Complete Screens**:
+  - Sentence Clue with blanked word (15 coins)
+- **11 Complete Screens**:
   1. Splash Screen
   2. Home Screen
   3. Class Selection Screen
   4. Level Selection Screen
-  5. Gameplay Screen
-  6. Level Completion Screen
-  7. Achievements Screen
-  8. Word Learning Panel Screen
-  9. Settings Screen
-  10. Help & About Screen
-- **Two Game Modes**:
-  - Relaxed School Quest (Default, no countdown pressure)
-  - 60-Second Speed Challenge (Bonus coin multiplier)
+  5. Gameplay Screen (Swipe Canvas)
+  6. Level Summary Vocabulary Screen
+  7. Level Completion Screen
+  8. Achievements Screen
+  9. Word Learning Review Panel
+  10. Settings Screen (Audio, Vibration, Pronunciation, Animation toggles)
+  11. Help & About Screen
 
 ---
 
@@ -51,60 +62,42 @@
 
 ```text
 D:\WordQuestGame\
-├── android\                     # Android native project configuration
+├── android\                     # Android native project & Gradle wrapper
+│   └── app\src\main\kotlin\     # MainActivity.kt (ToneGen, SoundPool, TTS channel)
 ├── assets\
-│   └── data\
-│       ├── levels.json          # 30 curated playable levels
-│       ├── dictionary.json      # Offline approved vocabulary
-│       ├── urdu_meanings.json   # 100% verified Urdu translations
-│       └── achievements.json    # Unlockable achievements
-├── docs\
-│   ├── PROJECT_PLAN.md          # Project milestones and roadmap
-│   ├── GAME_DESIGN.md           # Game mechanics and theme specifications
-│   ├── ARCHITECTURE.md          # Architecture and state management details
-│   ├── PROGRESS.md              # Live implementation log
-│   ├── TEST_REPORT.md           # Comprehensive test results
-│   ├── BUILD_AND_INSTALL.md     # APK build and phone installation guide
-│   └── MORNING_CHECKLIST.md     # Morning review checklist for user
+│   ├── audio\                   # Bundled offline PCM WAV sound effects
+│   ├── data\
+│   │   ├── levels.json          # 50 curated playable levels
+│   │   ├── dictionary.json      # Offline approved vocabulary
+│   │   ├── urdu_meanings.json   # 338 verified Urdu translations
+│   │   ├── word_details.json    # 336 example sentences & Urdu translations
+│   │   └── achievements.json    # Unlockable achievements
+│   └── images\
 ├── lib\
-│   ├── main.dart                # App entry point
-│   ├── app\                     # App configuration & MaterialApp
-│   ├── models\                  # Data models (Level, Progress, Achievement, etc.)
-│   ├── data\                    # Repositories & ScoringConfig
-│   ├── services\                # StorageService & AudioService
-│   ├── game\                    # WordValidator, GameEngine, HintSystem, TimedEngine
-│   ├── screens\                 # 10 fully functional game screens
-│   ├── widgets\                 # Reusable game UI components
-│   └── theme\                   # School color palette & typography
-├── test\                        # Automated test suites
-├── pubspec.yaml                 # Flutter configuration & asset declarations
-└── generate_data.py             # Data verification & generator tool
+│   ├── app\                     # App widget and routes
+│   ├── data\                    # Repositories (Levels, Words, Achievements)
+│   ├── game\                    # GameEngine, HintSystem, ScoringEngine, Validator
+│   ├── models\                  # Level, SchoolClass, WordEntry, PlayerProgress
+│   ├── screens\                 # All 11 UI game screens
+│   ├── services\                # AudioService (TTS + Sound effects), StorageService
+│   ├── theme\                   # AppColors, AppTheme
+│   └── widgets\                 # SwipeWordCanvas, FallingPetalsOverlay, etc.
+└── test\                        # 18 Flutter unit tests & automated test suite
 ```
 
 ---
 
-## 🚀 Running Tests & Verification
+## 🛠️ Build and Verification Instructions
 
-Run the full automated test suite verifying all 15 core game logic specifications:
+```bash
+# 1. Analyze code quality (0 errors, 0 warnings)
+flutter analyze
 
-```powershell
-cd D:\WordQuestGame
-python test/run_all_automated_tests.py
-```
+# 2. Run automated test suite
+flutter test
 
-Result: **25 Passed, 0 Failed**.
-
----
-
-## 📱 Building the Android APK
-
-When Flutter and the Android SDK are installed:
-
-```powershell
-cd D:\WordQuestGame
-flutter pub get
+# 3. Build Android debug APK
 flutter build apk --debug
 ```
 
-The APK will be generated at:
-`build/app/outputs/flutter-apk/app-debug.apk`
+APK Output: `build/app/outputs/flutter-apk/app-debug.apk` (~97.4 MB).
