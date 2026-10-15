@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ach_first_word",
+    "title": "First Spark",
+    "title_urdu": "پہلا لفظ",
+    "description": "Construct your very first approved English word.",
+    "icon": "auto_awesome",
+    "required_count": 1,
+    "type": "word_count",
+    "reward_coins": 15
+  },
+  {
+    "id": "ach_first_level",
+    "title": "Graduation Day",
+    "title_urdu": "پہلا درجہ مکمل",
+    "description": "Successfully complete your first school classroom level.",
+    "icon": "school",
+    "required_count": 1,
+    "type": "level_count",
+    "reward_coins": 25
+  },
+  {
+    "id": "ach_streak_5",
+    "title": "Streak Scholar",
+    "title_urdu": "مسلسل درستگی",
+    "description": "Submit 5 correct words in a row without mistakes.",
+    "icon": "bolt",
+    "required_count": 5,
+    "type": "streak",
+    "reward_coins": 30
+  },
+  {
+    "id": "ach_ten_levels",
+    "title": "Dedicated Student",
+    "title_urdu": "محنتی طالبعلم",
+    "description": "Clear 10 diverse school puzzle levels.",
+    "icon": "military_tech",
+    "required_count": 10,
+    "type": "level_count",
+    "reward_coins": 50
+  },
+  {
+    "id": "ach_hundred_words",
+    "title": "Word Wizard",
+    "title_urdu": "الفاظ کا جادوگر",
+    "description": "Discover 100 accepted English words across your journey.",
+    "icon": "workspace_premium",
+    "required_count": 100,
+    "type": "word_count",
+    "reward_coins": 100
+  },
+  {
+    "id": "ach_master_class",
+    "title": "School Valedictorian",
+    "title_urdu": "سکول ٹاپر",
+    "description": "Complete 30 school levels and conquer the Master Auditorium.",
+    "icon": "emoji_events",
+    "required_count": 30,
+    "type": "level_count",
+    "reward_coins": 200
+  },
+  {
+    "id": "ach_fifty_levels",
+    "title": "Grand Scholar of Word School",
+    "title_urdu": "عظیم سکالر",
+    "description": "Complete all 50 school puzzle levels and master every classroom challenge.",
+    "icon": "stars",
+    "required_count": 50,
+    "type": "level_count",
+    "reward_coins": 300
+  }
+]

@@ -1,0 +1,19 @@
+# Flutter / Dart gitignore
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+android/.gradle/
+android/local.properties
+android/app/build/
+
+# Visual Studio Code / IDEs
+.idea/
+.vscode/
+*.iml
+
+# Symbols & Caches
+*.lock

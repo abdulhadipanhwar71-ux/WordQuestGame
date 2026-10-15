@@ -1,0 +1,1521 @@
+[
+  {
+    "id": "lvl_01",
+    "level_number": 1,
+    "class_id": "class_1",
+    "class_name": "Class 1: Beginner",
+    "room_name": "Classroom 101",
+    "letters": [
+      "C",
+      "A",
+      "T"
+    ],
+    "valid_answers": [
+      "CAT",
+      "ACT"
+    ],
+    "target_words": 2,
+    "description": "Construct words using the given letters.",
+    "min_word_length": 3,
+    "reward_coins": 20,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_02",
+    "level_number": 2,
+    "class_id": "class_1",
+    "class_name": "Class 1: Beginner",
+    "room_name": "Classroom 101",
+    "letters": [
+      "D",
+      "O",
+      "G"
+    ],
+    "valid_answers": [
+      "DOG",
+      "GOD"
+    ],
+    "target_words": 2,
+    "description": "Form two everyday words.",
+    "min_word_length": 3,
+    "reward_coins": 20,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_03",
+    "level_number": 3,
+    "class_id": "class_1",
+    "class_name": "Class 1: Beginner",
+    "room_name": "Classroom 101",
+    "letters": [
+      "P",
+      "A",
+      "N"
+    ],
+    "valid_answers": [
+      "PAN",
+      "NAP"
+    ],
+    "target_words": 2,
+    "description": "Discover cooking and resting words.",
+    "min_word_length": 3,
+    "reward_coins": 20,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_04",
+    "level_number": 4,
+    "class_id": "class_1",
+    "class_name": "Class 1: Beginner",
+    "room_name": "Classroom 101",
+    "letters": [
+      "T",
+      "O",
+      "P"
+    ],
+    "valid_answers": [
+      "TOP",
+      "POT"
+    ],
+    "target_words": 2,
+    "description": "Rotate letters to make simple words.",
+    "min_word_length": 3,
+    "reward_coins": 20,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_05",
+    "level_number": 5,
+    "class_id": "class_1",
+    "class_name": "Class 1: Beginner",
+    "room_name": "Classroom 101",
+    "letters": [
+      "B",
+      "A",
+      "T"
+    ],
+    "valid_answers": [
+      "BAT",
+      "TAB"
+    ],
+    "target_words": 2,
+    "description": "A sports item and a keyboard key.",
+    "min_word_length": 3,
+    "reward_coins": 20,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_06",
+    "level_number": 6,
+    "class_id": "class_1",
+    "class_name": "Class 1: Beginner",
+    "room_name": "Classroom 101",
+    "letters": [
+      "E",
+      "A",
+      "R"
+    ],
+    "valid_answers": [
+      "EAR",
+      "ARE",
+      "ERA"
+    ],
+    "target_words": 2,
+    "description": "Find 2 or 3 common words.",
+    "min_word_length": 3,
+    "reward_coins": 25,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_07",
+    "level_number": 7,
+    "class_id": "class_1",
+    "class_name": "Class 1: Beginner",
+    "room_name": "Classroom 101",
+    "letters": [
+      "C",
+      "A",
+      "T",
+      "R"
+    ],
+    "valid_answers": [
+      "CAT",
+      "CAR",
+      "RAT",
+      "ART",
+      "ACT",
+      "CART"
+    ],
+    "target_words": 3,
+    "description": "Build four-letter and three-letter words.",
+    "min_word_length": 3,
+    "reward_coins": 25,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_08",
+    "level_number": 8,
+    "class_id": "class_1",
+    "class_name": "Class 1: Beginner",
+    "room_name": "Classroom 101",
+    "letters": [
+      "S",
+      "T",
+      "A",
+      "R"
+    ],
+    "valid_answers": [
+      "STAR",
+      "RATS",
+      "ARTS",
+      "ART",
+      "RAT",
+      "SAT",
+      "TAR"
+    ],
+    "target_words": 4,
+    "description": "Reach for the stars in the library.",
+    "min_word_length": 3,
+    "reward_coins": 25,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_09",
+    "level_number": 9,
+    "class_id": "class_1",
+    "class_name": "Class 1: Beginner",
+    "room_name": "Classroom 101",
+    "letters": [
+      "P",
+      "L",
+      "A",
+      "Y"
+    ],
+    "valid_answers": [
+      "PLAY",
+      "LAY",
+      "LAP",
+      "PAY",
+      "PAL"
+    ],
+    "target_words": 3,
+    "description": "Spell recreation words.",
+    "min_word_length": 3,
+    "reward_coins": 25,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_10",
+    "level_number": 10,
+    "class_id": "class_1",
+    "class_name": "Class 1: Beginner",
+    "room_name": "Classroom 101",
+    "letters": [
+      "B",
+      "I",
+      "R",
+      "D"
+    ],
+    "valid_answers": [
+      "BIRD",
+      "BID",
+      "RIB",
+      "RID"
+    ],
+    "target_words": 3,
+    "description": "Nature vocabulary in the reading corner.",
+    "min_word_length": 3,
+    "reward_coins": 25,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_11",
+    "level_number": 11,
+    "class_id": "class_2",
+    "class_name": "Class 2: Explorer",
+    "room_name": "School Library",
+    "letters": [
+      "S",
+      "H",
+      "I",
+      "P"
+    ],
+    "valid_answers": [
+      "SHIP",
+      "HIPS",
+      "HIP",
+      "SIP"
+    ],
+    "target_words": 3,
+    "description": "Sail through library adventures.",
+    "min_word_length": 3,
+    "reward_coins": 25,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_12",
+    "level_number": 12,
+    "class_id": "class_2",
+    "class_name": "Class 2: Explorer",
+    "room_name": "School Library",
+    "letters": [
+      "L",
+      "A",
+      "M",
+      "P"
+    ],
+    "valid_answers": [
+      "LAMP",
+      "PALM",
+      "MAP",
+      "LAP",
+      "PAL"
+    ],
+    "target_words": 3,
+    "description": "Shine light on your vocabulary.",
+    "min_word_length": 3,
+    "reward_coins": 30,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_13",
+    "level_number": 13,
+    "class_id": "class_2",
+    "class_name": "Class 2: Explorer",
+    "room_name": "School Library",
+    "letters": [
+      "G",
+      "A",
+      "M",
+      "E"
+    ],
+    "valid_answers": [
+      "GAME",
+      "MAGE",
+      "MEGA",
+      "AGE",
+      "GEM"
+    ],
+    "target_words": 3,
+    "description": "Combine elements in the laboratory.",
+    "min_word_length": 3,
+    "reward_coins": 30,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_14",
+    "level_number": 14,
+    "class_id": "class_2",
+    "class_name": "Class 2: Explorer",
+    "room_name": "School Library",
+    "letters": [
+      "T",
+      "I",
+      "M",
+      "E"
+    ],
+    "valid_answers": [
+      "TIME",
+      "ITEM",
+      "EMIT",
+      "MITE",
+      "TIE",
+      "MET"
+    ],
+    "target_words": 3,
+    "description": "Measure time accurately.",
+    "min_word_length": 3,
+    "reward_coins": 30,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_15",
+    "level_number": 15,
+    "class_id": "class_2",
+    "class_name": "Class 2: Explorer",
+    "room_name": "School Library",
+    "letters": [
+      "L",
+      "I",
+      "F",
+      "E"
+    ],
+    "valid_answers": [
+      "LIFE",
+      "FILE",
+      "LIE",
+      "ELF"
+    ],
+    "target_words": 3,
+    "description": "Biological sciences and life.",
+    "min_word_length": 3,
+    "reward_coins": 30,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_16",
+    "level_number": 16,
+    "class_id": "class_2",
+    "class_name": "Class 2: Explorer",
+    "room_name": "School Library",
+    "letters": [
+      "R",
+      "O",
+      "S",
+      "E"
+    ],
+    "valid_answers": [
+      "ROSE",
+      "SORE",
+      "ROE",
+      "ORE"
+    ],
+    "target_words": 3,
+    "description": "Botany exploration in science.",
+    "min_word_length": 3,
+    "reward_coins": 30,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_17",
+    "level_number": 17,
+    "class_id": "class_2",
+    "class_name": "Class 2: Explorer",
+    "room_name": "School Library",
+    "letters": [
+      "F",
+      "I",
+      "R",
+      "E"
+    ],
+    "valid_answers": [
+      "FIRE",
+      "RIFE",
+      "REF",
+      "FIR"
+    ],
+    "target_words": 3,
+    "description": "Heat, combustion, and flame.",
+    "min_word_length": 3,
+    "reward_coins": 30,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_18",
+    "level_number": 18,
+    "class_id": "class_2",
+    "class_name": "Class 2: Explorer",
+    "room_name": "School Library",
+    "letters": [
+      "W",
+      "I",
+      "N",
+      "D"
+    ],
+    "valid_answers": [
+      "WIND",
+      "WIN",
+      "DIN"
+    ],
+    "target_words": 2,
+    "description": "Atmospheric air currents.",
+    "min_word_length": 3,
+    "reward_coins": 35,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_19",
+    "level_number": 19,
+    "class_id": "class_2",
+    "class_name": "Class 2: Explorer",
+    "room_name": "School Library",
+    "letters": [
+      "P",
+      "L",
+      "A",
+      "N",
+      "T"
+    ],
+    "valid_answers": [
+      "PLANT",
+      "PLAN",
+      "PANT",
+      "TAP",
+      "PAN",
+      "TAN",
+      "ANT",
+      "PAT",
+      "NAP"
+    ],
+    "target_words": 4,
+    "description": "Find botanical and action words.",
+    "min_word_length": 3,
+    "reward_coins": 35,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_20",
+    "level_number": 20,
+    "class_id": "class_2",
+    "class_name": "Class 2: Explorer",
+    "room_name": "School Library",
+    "letters": [
+      "S",
+      "M",
+      "A",
+      "R",
+      "T"
+    ],
+    "valid_answers": [
+      "SMART",
+      "TRAM",
+      "STAR",
+      "MART",
+      "MAT",
+      "RAT",
+      "ART",
+      "ARM",
+      "RAM",
+      "SAT",
+      "TAR"
+    ],
+    "target_words": 4,
+    "description": "Demonstrate intellect with SMART words.",
+    "min_word_length": 3,
+    "reward_coins": 35,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_21",
+    "level_number": 21,
+    "class_id": "class_3",
+    "class_name": "Class 3: Word Builder",
+    "room_name": "Science Lab",
+    "letters": [
+      "T",
+      "R",
+      "A",
+      "I",
+      "N"
+    ],
+    "valid_answers": [
+      "TRAIN",
+      "RAIN",
+      "RANT",
+      "TIN",
+      "TAN",
+      "ART",
+      "RAT",
+      "AIR"
+    ],
+    "target_words": 4,
+    "description": "Locomotives and practice.",
+    "min_word_length": 3,
+    "reward_coins": 35,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_22",
+    "level_number": 22,
+    "class_id": "class_3",
+    "class_name": "Class 3: Word Builder",
+    "room_name": "Science Lab",
+    "letters": [
+      "S",
+      "P",
+      "O",
+      "R",
+      "T"
+    ],
+    "valid_answers": [
+      "SPORT",
+      "STOP",
+      "POST",
+      "PORT",
+      "SPOT",
+      "POT",
+      "TOP",
+      "ROT",
+      "OPT"
+    ],
+    "target_words": 4,
+    "description": "Physical activities and athletics.",
+    "min_word_length": 3,
+    "reward_coins": 35,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_23",
+    "level_number": 23,
+    "class_id": "class_3",
+    "class_name": "Class 3: Word Builder",
+    "room_name": "Science Lab",
+    "letters": [
+      "C",
+      "L",
+      "E",
+      "A",
+      "N"
+    ],
+    "valid_answers": [
+      "CLEAN",
+      "LANE",
+      "LEAN",
+      "CANE",
+      "ALE",
+      "ACE",
+      "CAN"
+    ],
+    "target_words": 4,
+    "description": "Hygiene and purity.",
+    "min_word_length": 3,
+    "reward_coins": 35,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_24",
+    "level_number": 24,
+    "class_id": "class_3",
+    "class_name": "Class 3: Word Builder",
+    "room_name": "Science Lab",
+    "letters": [
+      "E",
+      "A",
+      "R",
+      "T",
+      "H"
+    ],
+    "valid_answers": [
+      "EARTH",
+      "HEART",
+      "HATE",
+      "HEAR",
+      "HEAT",
+      "THE",
+      "HAT",
+      "ART",
+      "RAT",
+      "EAR",
+      "ARE",
+      "ERA"
+    ],
+    "target_words": 5,
+    "description": "Our planet and living heart.",
+    "min_word_length": 3,
+    "reward_coins": 40,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_25",
+    "level_number": 25,
+    "class_id": "class_3",
+    "class_name": "Class 3: Word Builder",
+    "room_name": "Science Lab",
+    "letters": [
+      "S",
+      "C",
+      "H",
+      "O",
+      "O",
+      "L"
+    ],
+    "valid_answers": [
+      "SCHOOL",
+      "SHOO",
+      "LOCH",
+      "SOLO",
+      "COOL",
+      "COO"
+    ],
+    "target_words": 3,
+    "description": "The foundation of education.",
+    "min_word_length": 3,
+    "reward_coins": 45,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_26",
+    "level_number": 26,
+    "class_id": "class_3",
+    "class_name": "Class 3: Word Builder",
+    "room_name": "Science Lab",
+    "letters": [
+      "G",
+      "A",
+      "R",
+      "D",
+      "E",
+      "N"
+    ],
+    "valid_answers": [
+      "GARDEN",
+      "DANGER",
+      "GRADE",
+      "GRAND",
+      "READ",
+      "DEAR",
+      "DARE",
+      "RANG",
+      "GEAR",
+      "RAGE",
+      "RED",
+      "AGE",
+      "END",
+      "EAR",
+      "ARE",
+      "AND",
+      "DEN"
+    ],
+    "target_words": 5,
+    "description": "A flourishing yard of green.",
+    "min_word_length": 3,
+    "reward_coins": 45,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_27",
+    "level_number": 27,
+    "class_id": "class_3",
+    "class_name": "Class 3: Word Builder",
+    "room_name": "Science Lab",
+    "letters": [
+      "P",
+      "E",
+      "N",
+      "C",
+      "I",
+      "L"
+    ],
+    "valid_answers": [
+      "PENCIL",
+      "LINE",
+      "PINE",
+      "LICE",
+      "NIP",
+      "PIN",
+      "PEN",
+      "LIP",
+      "ICE",
+      "LIE"
+    ],
+    "target_words": 5,
+    "description": "The writer's graphite tool.",
+    "min_word_length": 3,
+    "reward_coins": 45,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_28",
+    "level_number": 28,
+    "class_id": "class_3",
+    "class_name": "Class 3: Word Builder",
+    "room_name": "Science Lab",
+    "letters": [
+      "F",
+      "R",
+      "I",
+      "E",
+      "N",
+      "D"
+    ],
+    "valid_answers": [
+      "FRIEND",
+      "FIND",
+      "FINE",
+      "RIDE",
+      "DINE",
+      "FIRE",
+      "RED",
+      "END",
+      "DIE",
+      "FIN",
+      "FED",
+      "RID"
+    ],
+    "target_words": 5,
+    "description": "A companion on your journey.",
+    "min_word_length": 3,
+    "reward_coins": 45,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_29",
+    "level_number": 29,
+    "class_id": "class_3",
+    "class_name": "Class 3: Word Builder",
+    "room_name": "Science Lab",
+    "letters": [
+      "S",
+      "I",
+      "L",
+      "V",
+      "E",
+      "R"
+    ],
+    "valid_answers": [
+      "SILVER",
+      "LIVER",
+      "VILE",
+      "LIVE",
+      "VEIL",
+      "RISE",
+      "SIR",
+      "LIE"
+    ],
+    "target_words": 4,
+    "description": "A precious metallic shine.",
+    "min_word_length": 3,
+    "reward_coins": 50,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_30",
+    "level_number": 30,
+    "class_id": "class_3",
+    "class_name": "Class 3: Word Builder",
+    "room_name": "Science Lab",
+    "letters": [
+      "F",
+      "L",
+      "O",
+      "W",
+      "E",
+      "R"
+    ],
+    "valid_answers": [
+      "FLOWER",
+      "LOWER",
+      "WOLF",
+      "FLOW",
+      "FOWL",
+      "FORE",
+      "ROLE",
+      "ROW",
+      "OWL",
+      "REF",
+      "ORE",
+      "ROE",
+      "FOR",
+      "LOW",
+      "FEW"
+    ],
+    "target_words": 5,
+    "description": "The blooming pinnacle of Word School.",
+    "min_word_length": 3,
+    "reward_coins": 50,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_31",
+    "level_number": 31,
+    "class_id": "class_4",
+    "class_name": "Class 4: Scholar",
+    "room_name": "Language Lab",
+    "letters": [
+      "B",
+      "R",
+      "A",
+      "I",
+      "N"
+    ],
+    "valid_answers": [
+      "BRAIN",
+      "RAIN",
+      "BARN",
+      "BRAN",
+      "AIR",
+      "RIB",
+      "BIN",
+      "RAN",
+      "BAR"
+    ],
+    "target_words": 5,
+    "description": "Uncover words of mind and weather.",
+    "min_word_length": 3,
+    "reward_coins": 30,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_32",
+    "level_number": 32,
+    "class_id": "class_4",
+    "class_name": "Class 4: Scholar",
+    "room_name": "Language Lab",
+    "letters": [
+      "C",
+      "H",
+      "A",
+      "I",
+      "R"
+    ],
+    "valid_answers": [
+      "CHAIR",
+      "ARCH",
+      "HAIR",
+      "RICH",
+      "AIR",
+      "CAR"
+    ],
+    "target_words": 4,
+    "description": "Construct seating and style words.",
+    "min_word_length": 3,
+    "reward_coins": 30,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_33",
+    "level_number": 33,
+    "class_id": "class_4",
+    "class_name": "Class 4: Scholar",
+    "room_name": "Language Lab",
+    "letters": [
+      "D",
+      "R",
+      "E",
+      "A",
+      "M"
+    ],
+    "valid_answers": [
+      "DREAM",
+      "ARMED",
+      "DARE",
+      "DEAR",
+      "MADE",
+      "READ",
+      "ARM",
+      "RED",
+      "DAM",
+      "EAR"
+    ],
+    "target_words": 5,
+    "description": "Build inspiring aspiration words.",
+    "min_word_length": 3,
+    "reward_coins": 30,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_34",
+    "level_number": 34,
+    "class_id": "class_4",
+    "class_name": "Class 4: Scholar",
+    "room_name": "Language Lab",
+    "letters": [
+      "E",
+      "A",
+      "R",
+      "T",
+      "H"
+    ],
+    "valid_answers": [
+      "EARTH",
+      "HEART",
+      "HATER",
+      "HEAT",
+      "HATE",
+      "HEAR",
+      "TEAR",
+      "RATE",
+      "ART",
+      "EAR",
+      "HAT",
+      "THE",
+      "EAT",
+      "TEA"
+    ],
+    "target_words": 6,
+    "description": "Discover our planetary home and nature.",
+    "min_word_length": 3,
+    "reward_coins": 30,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_35",
+    "level_number": 35,
+    "class_id": "class_4",
+    "class_name": "Class 4: Scholar",
+    "room_name": "Language Lab",
+    "letters": [
+      "G",
+      "R",
+      "E",
+      "A",
+      "T"
+    ],
+    "valid_answers": [
+      "GREAT",
+      "GRATE",
+      "TEAR",
+      "RATE",
+      "GATE",
+      "GEAR",
+      "RAGE",
+      "ART",
+      "EAR",
+      "AGE",
+      "TEA",
+      "EAT",
+      "TAG"
+    ],
+    "target_words": 6,
+    "description": "Create grand and powerful words.",
+    "min_word_length": 3,
+    "reward_coins": 30,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_36",
+    "level_number": 36,
+    "class_id": "class_4",
+    "class_name": "Class 4: Scholar",
+    "room_name": "Language Lab",
+    "letters": [
+      "L",
+      "E",
+      "M",
+      "O",
+      "N"
+    ],
+    "valid_answers": [
+      "LEMON",
+      "MELON",
+      "MOLE",
+      "LONE",
+      "OMEN",
+      "ONE",
+      "MEN",
+      "ELM"
+    ],
+    "target_words": 4,
+    "description": "Discover sweet and sour orchard words.",
+    "min_word_length": 3,
+    "reward_coins": 30,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_37",
+    "level_number": 37,
+    "class_id": "class_4",
+    "class_name": "Class 4: Scholar",
+    "room_name": "Language Lab",
+    "letters": [
+      "S",
+      "M",
+      "I",
+      "L",
+      "E"
+    ],
+    "valid_answers": [
+      "SMILE",
+      "SLIME",
+      "MILE",
+      "LIME",
+      "SLIM",
+      "ISLE",
+      "LIE"
+    ],
+    "target_words": 5,
+    "description": "Form cheerful words of joy and distance.",
+    "min_word_length": 3,
+    "reward_coins": 30,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_38",
+    "level_number": 38,
+    "class_id": "class_4",
+    "class_name": "Class 4: Scholar",
+    "room_name": "Language Lab",
+    "letters": [
+      "P",
+      "L",
+      "A",
+      "N",
+      "E"
+    ],
+    "valid_answers": [
+      "PLANE",
+      "PANEL",
+      "PLAN",
+      "LANE",
+      "LEAN",
+      "PALE",
+      "PEAL",
+      "PLEA",
+      "PEN",
+      "NAP",
+      "PAN",
+      "PAL"
+    ],
+    "target_words": 6,
+    "description": "Construct aviation and travel words.",
+    "min_word_length": 3,
+    "reward_coins": 30,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_39",
+    "level_number": 39,
+    "class_id": "class_4",
+    "class_name": "Class 4: Scholar",
+    "room_name": "Language Lab",
+    "letters": [
+      "S",
+      "H",
+      "I",
+      "N",
+      "E"
+    ],
+    "valid_answers": [
+      "SHINE",
+      "SHIN",
+      "SINE",
+      "HENS",
+      "HEN",
+      "SHE",
+      "HIS",
+      "SIN"
+    ],
+    "target_words": 5,
+    "description": "Spell luminous radiant words.",
+    "min_word_length": 3,
+    "reward_coins": 30,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_40",
+    "level_number": 40,
+    "class_id": "class_4",
+    "class_name": "Class 4: Scholar",
+    "room_name": "Language Lab",
+    "letters": [
+      "S",
+      "P",
+      "O",
+      "R",
+      "T"
+    ],
+    "valid_answers": [
+      "SPORT",
+      "PORTS",
+      "POST",
+      "STOP",
+      "SPOT",
+      "TOPS",
+      "PORT",
+      "POT",
+      "TOP",
+      "ROT",
+      "OPT"
+    ],
+    "target_words": 6,
+    "description": "Form athletic and recreational words.",
+    "min_word_length": 3,
+    "reward_coins": 35,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_41",
+    "level_number": 41,
+    "class_id": "class_5",
+    "class_name": "Class 5: Master",
+    "room_name": "Grand Auditorium",
+    "letters": [
+      "S",
+      "P",
+      "R",
+      "I",
+      "N",
+      "G"
+    ],
+    "valid_answers": [
+      "SPRING",
+      "RINGS",
+      "RING",
+      "GRIPS",
+      "GRIP",
+      "SPIN",
+      "PINS",
+      "SING",
+      "SIGN",
+      "PIG",
+      "RIP",
+      "PIN",
+      "SIP"
+    ],
+    "target_words": 7,
+    "description": "Welcome flourishing seasons of growth.",
+    "min_word_length": 3,
+    "reward_coins": 35,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_42",
+    "level_number": 42,
+    "class_id": "class_5",
+    "class_name": "Class 5: Master",
+    "room_name": "Grand Auditorium",
+    "letters": [
+      "C",
+      "A",
+      "S",
+      "T",
+      "L",
+      "E"
+    ],
+    "valid_answers": [
+      "CASTLE",
+      "CLEAT",
+      "SCALE",
+      "STALE",
+      "STEAL",
+      "LEAST",
+      "TALES",
+      "CASE",
+      "CAST",
+      "LATE",
+      "SALE",
+      "SALT",
+      "SEAT",
+      "CAT",
+      "ACT",
+      "LET",
+      "SET",
+      "TEA",
+      "EAT"
+    ],
+    "target_words": 8,
+    "description": "Explore royal stone fortifications.",
+    "min_word_length": 3,
+    "reward_coins": 35,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_43",
+    "level_number": 43,
+    "class_id": "class_5",
+    "class_name": "Class 5: Master",
+    "room_name": "Grand Auditorium",
+    "letters": [
+      "M",
+      "A",
+      "R",
+      "K",
+      "E",
+      "T"
+    ],
+    "valid_answers": [
+      "MARKET",
+      "TAKER",
+      "MAKER",
+      "MAKE",
+      "MARK",
+      "MATE",
+      "MEAT",
+      "TAKE",
+      "TEAR",
+      "TEAM",
+      "TERM",
+      "ART",
+      "ARM",
+      "EAR",
+      "ERA",
+      "TEA",
+      "EAT"
+    ],
+    "target_words": 8,
+    "description": "Trade words in the bustling town market.",
+    "min_word_length": 3,
+    "reward_coins": 35,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_44",
+    "level_number": 44,
+    "class_id": "class_5",
+    "class_name": "Class 5: Master",
+    "room_name": "Grand Auditorium",
+    "letters": [
+      "B",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E"
+    ],
+    "valid_answers": [
+      "BRIDGE",
+      "BRIDE",
+      "BIRD",
+      "DIRE",
+      "GRID",
+      "RIDE",
+      "BED",
+      "BEG",
+      "BID",
+      "DIE",
+      "DIG",
+      "RED",
+      "RIB",
+      "RID"
+    ],
+    "target_words": 7,
+    "description": "Connect across rushing river waters.",
+    "min_word_length": 3,
+    "reward_coins": 35,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_45",
+    "level_number": 45,
+    "class_id": "class_5",
+    "class_name": "Class 5: Master",
+    "room_name": "Grand Auditorium",
+    "letters": [
+      "F",
+      "O",
+      "R",
+      "E",
+      "S",
+      "T"
+    ],
+    "valid_answers": [
+      "FOREST",
+      "FORTE",
+      "FORTS",
+      "FROST",
+      "STORE",
+      "FORT",
+      "FORE",
+      "ROSE",
+      "ROTE",
+      "SOFT",
+      "SORE",
+      "TORE",
+      "FOR",
+      "ROE",
+      "ROT",
+      "SET",
+      "TOE"
+    ],
+    "target_words": 8,
+    "description": "Wander through whispering woodlands.",
+    "min_word_length": 3,
+    "reward_coins": 35,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_46",
+    "level_number": 46,
+    "class_id": "class_5",
+    "class_name": "Class 5: Master",
+    "room_name": "Grand Auditorium",
+    "letters": [
+      "P",
+      "L",
+      "A",
+      "N",
+      "E",
+      "T"
+    ],
+    "valid_answers": [
+      "PLANET",
+      "PLANT",
+      "PANEL",
+      "PLANE",
+      "PLATE",
+      "LEAN",
+      "LATE",
+      "LANE",
+      "NEAT",
+      "PALE",
+      "TALE",
+      "TAPE",
+      "TEAL",
+      "ANT",
+      "APE",
+      "LET",
+      "NET",
+      "PAN",
+      "PAT",
+      "PEN",
+      "PET",
+      "TAN",
+      "TAP",
+      "TEA"
+    ],
+    "target_words": 9,
+    "description": "Survey cosmic wonders orbiting the sun.",
+    "min_word_length": 3,
+    "reward_coins": 40,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_47",
+    "level_number": 47,
+    "class_id": "class_5",
+    "class_name": "Class 5: Master",
+    "room_name": "Grand Auditorium",
+    "letters": [
+      "S",
+      "U",
+      "N",
+      "S",
+      "E",
+      "T"
+    ],
+    "valid_answers": [
+      "SUNSET",
+      "NESTS",
+      "TUNES",
+      "NEST",
+      "NETS",
+      "NUTS",
+      "SENT",
+      "SETS",
+      "SUET",
+      "SUNS",
+      "TUNE",
+      "USES",
+      "NET",
+      "NUT",
+      "SET",
+      "SUE",
+      "SUN",
+      "TEN",
+      "USE"
+    ],
+    "target_words": 8,
+    "description": "Gaze upon brilliant evening skies.",
+    "min_word_length": 3,
+    "reward_coins": 40,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_48",
+    "level_number": 48,
+    "class_id": "class_5",
+    "class_name": "Class 5: Master",
+    "room_name": "Grand Auditorium",
+    "letters": [
+      "W",
+      "I",
+      "N",
+      "T",
+      "E",
+      "R"
+    ],
+    "valid_answers": [
+      "WINTER",
+      "TWINE",
+      "WRITE",
+      "INERT",
+      "INTER",
+      "TIER",
+      "TWIN",
+      "WENT",
+      "WINE",
+      "WIRE",
+      "NET",
+      "NEW",
+      "NIT",
+      "TEN",
+      "TIE",
+      "TIN",
+      "WET",
+      "WIN"
+    ],
+    "target_words": 8,
+    "description": "Brave frosty snowscapes and cold winds.",
+    "min_word_length": 3,
+    "reward_coins": 40,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_49",
+    "level_number": 49,
+    "class_id": "class_5",
+    "class_name": "Class 5: Master",
+    "room_name": "Grand Auditorium",
+    "letters": [
+      "P",
+      "E",
+      "R",
+      "S",
+      "O",
+      "N"
+    ],
+    "valid_answers": [
+      "PERSON",
+      "PRONE",
+      "SPORE",
+      "POSER",
+      "ROPE",
+      "ROPES",
+      "ROSE",
+      "NOSE",
+      "OPEN",
+      "OPENS",
+      "PORE",
+      "PORES",
+      "POSE",
+      "REPS",
+      "SORE",
+      "NOR",
+      "ONE",
+      "PEN",
+      "PER",
+      "PRO",
+      "SON"
+    ],
+    "target_words": 9,
+    "description": "Learn words of humanity and society.",
+    "min_word_length": 3,
+    "reward_coins": 40,
+    "reward_stars": 3
+  },
+  {
+    "id": "lvl_50",
+    "level_number": 50,
+    "class_id": "class_5",
+    "class_name": "Class 5: Master",
+    "room_name": "Grand Auditorium",
+    "letters": [
+      "W",
+      "O",
+      "N",
+      "D",
+      "E",
+      "R"
+    ],
+    "valid_answers": [
+      "WONDER",
+      "DROWN",
+      "OWNER",
+      "ROWED",
+      "DOWN",
+      "DREW",
+      "NERD",
+      "NODE",
+      "OWED",
+      "WORE",
+      "WORN",
+      "DEN",
+      "DEW",
+      "END",
+      "NEW",
+      "NOW",
+      "ONE",
+      "ORE",
+      "RED",
+      "ROD",
+      "ROW",
+      "WED",
+      "WON"
+    ],
+    "target_words": 10,
+    "description": "The grand finale: celebrate curiosity and marvels of knowledge!",
+    "min_word_length": 3,
+    "reward_coins": 50,
+    "reward_stars": 3
+  }
+]

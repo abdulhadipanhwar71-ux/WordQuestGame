@@ -1,0 +1,30 @@
+name: word_quest_word_school
+description: "Word Quest: Word School - An offline English-to-Urdu educational word puzzle game."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/levels.json
+    - assets/data/dictionary.json
+    - assets/data/urdu_meanings.json
+    - assets/data/word_details.json
+    - assets/data/achievements.json
+    - assets/images/
+    - assets/audio/
